@@ -1,5 +1,6 @@
+package demo.spring.boot.demospringbootdaytwo;
+
 import jakarta.persistence.*;
-import lombok.Data;
 
 @Entity
 @Table(name = "user")

@@ -1,3 +1,5 @@
+package demo.spring.boot.demospringbootdaytwo;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
